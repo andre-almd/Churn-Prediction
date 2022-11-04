@@ -53,4 +53,8 @@ Aqui você vai encontrar três arquivos pricipais:
 
 ## **Deploy no streamlit**
 
-![](imagem/video_teste.mp4)
+<p align="center">
+    <video width="700" controls>
+    <source src="imagem/video_teste.mp4" type="video/mp4">
+    </video>
+</p>
