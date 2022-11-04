@@ -53,4 +53,4 @@ Aqui você vai encontrar três arquivos pricipais:
 
 ## **Deploy no streamlit**
 
-![](imagem/video%20teste.mp4)
+![](imagem/video_teste.mp4)
