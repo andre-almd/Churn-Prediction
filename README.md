@@ -53,8 +53,4 @@ Aqui você vai encontrar três arquivos pricipais:
 
 ## **Deploy no streamlit**
 
-<p align="center">
-    <video width="700" controls>
-    <source src="imagem/video_teste.mp4" type="video/mp4">
-    </video>
-</p>
+https://user-images.githubusercontent.com/47365050/200089582-1e1d7a85-24e9-4300-b5f1-9c6af4fc368d.mp4
