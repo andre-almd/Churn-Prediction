@@ -53,4 +53,6 @@ Aqui você vai encontrar três arquivos pricipais:
 
 ## **Deploy no streamlit**
 
+Neste [link](https://andre-almd-churn-prediction-main-noymev.streamlit.app/) você acessa o deploy online do aplicativo do projeto.
+
 https://user-images.githubusercontent.com/47365050/200089582-1e1d7a85-24e9-4300-b5f1-9c6af4fc368d.mp4
