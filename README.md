@@ -6,7 +6,7 @@ Os dados utilizados neste projeto foram originalmente disponibilizados na plataf
 
 Apesar de não haver informações explícitas disponíves, os nomes das colunas permitem um entendimento a respeito do problema.
 
-## **Entendendo o que é o Chur Rate**
+## **Entendendo o que é o Churn Rate**
 
 **Churn rate**, ou simplesmente churn, representa a **taxa de evasão** da sua base de clientes. Em serviços como Spotify ou Netflix, ela representaria a taxa de cancelamento de assinaturas. Ela é de extrema importância para a administração e sua análise ao longo do tempo pode mostrar que existe algum problema que deve ser atacado.
 
